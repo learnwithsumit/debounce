@@ -10,7 +10,7 @@
 
 Example project shown in Learn with Sumit - Debounce tutorial -
 
-[![View on Youtube](http://img.youtube.com/vi/_WuDDnZMRiE/0.jpg)](http://www.youtube.com/watch?v=_WuDDnZMRiE)
+[![View on Youtube](http://img.youtube.com/vi/dD9O8DnIBj4/0.jpg)](http://www.youtube.com/watch?v=dD9O8DnIBj4)
 
 <!-- TABLE OF CONTENTS -->
 
